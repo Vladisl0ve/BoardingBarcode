@@ -1,14 +1,13 @@
-# A Blank PhoneGap App
+# Android App for Generating Boarding Barcode
 
-## Usage
+## Version 0.0.1
 
-### PhoneGap CLI
+### Usage
 
-    $ phonegap create my-app --template blank
+  Now you can just type data and get boarding barcode without any internet connection!
 
-### Desktop
 
-In your browser, open the file:
+### Thanks to shooshx, Aliaksander Lapko
 
-    /www/index.html
-
+    https://github.com/shooshx/BoardingBarcode
+    https://t.me/@wesolapka
