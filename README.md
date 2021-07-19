@@ -10,4 +10,4 @@
 ### Thanks to shooshx, Aliaksander Lapko
 
     https://github.com/shooshx/BoardingBarcode
-    https://t.me/@wesolapka
+    https://t.me/wesolapka
